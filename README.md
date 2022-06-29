@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @IanAbusamra
-- 👀 I’m interested in competitive programming, robotics, USACO
-- 🌱 I’m currently learning ML, DSA
-- 💞️ I’m looking to collaborate on anything related to robotics or algorithms
+- 👀 I’m interested in robotics, data structures & algorithms, machine learning
 - 📫 How to reach me email: iana9971@gmail.com
 
 <!---
